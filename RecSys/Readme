@@ -1,0 +1,8 @@
+Steps:
+
+1. You may run the following command in case some python libraries are missing on your system.
+    $pip install -r requirements.txt
+2. To compile all the necessary binaries use the following commands
+    $cd PfastreXML
+    $make
+
